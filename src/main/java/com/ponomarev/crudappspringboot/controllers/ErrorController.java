@@ -11,4 +11,5 @@ public class ErrorController {
     public String error() {
         return "/users/error";
     }
+
 }
